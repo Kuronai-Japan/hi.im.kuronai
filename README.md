@@ -40,7 +40,7 @@ Bound for Japan — not as a tourist, but as a legend in the making.
 ## 🔗 Connect
 - 🧠 [LinkedIn] https://www.linkedin.com/in/kuronai-japan-b4165b361/
 - 💬 [Reddit] https://www.reddit.com/user/Top_Department_5125/
-- 💻 [GitHub]([https://github.com/kuronai] https://github.com/Kuronai-Japan
+- 💻 [GitHub] https://github.com/Kuronai-Japan
 - 💬 [Discord] kuronai.japan
 - 🌐 Portfolio: *coming soon*
 
